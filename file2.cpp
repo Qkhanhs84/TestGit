@@ -7,5 +7,6 @@ signed main(void) {
     cout << "file2"; 
 
     cout << "conflict from conflict" ; 
+    cout << "remote repo" ; 
     return 0;
 }
