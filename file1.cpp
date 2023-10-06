@@ -5,5 +5,6 @@ using namespace std;
 
 signed main(void) {
     cout << "HELLO" ; 
+    cout << "hi"; 
     return 0;
 }
