@@ -9,3 +9,4 @@
 - git checkout <id_commit> => come to commit(id) 
 - git branch => view current branch add  the other branch 
 - git checkout {branch_name}
+- git checkout -b {branch_name} => create a new branch 
