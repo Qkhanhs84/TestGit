@@ -19,3 +19,5 @@ remote
 
 - git push url {branch_name} => push up to remote
 - git remote add {alias_name} url => create alias for url-github-repo
+- git fetch origin 
+- git checkout -b staging origin/staging
