@@ -16,3 +16,6 @@ remote
 - git checkout -b {branch_name} => create a new branch 
 - git merge {branch_name}=> merge branches 
 - git branch -d {branch_name} => delete branch 
+
+- git push url {branch_name} => push up to remote
+- git remote add {alias_name} url => create alias for url-github-repo
