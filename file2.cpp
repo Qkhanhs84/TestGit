@@ -5,5 +5,6 @@ using namespace std;
 
 signed main(void) {
     cout << "file2"; 
+    cout << "conflict from master" ; 
     return 0;
 }
