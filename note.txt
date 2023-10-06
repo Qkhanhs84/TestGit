@@ -10,3 +10,5 @@
 - git branch => view current branch add  the other branch 
 - git checkout {branch_name}
 - git checkout -b {branch_name} => create a new branch 
+- git merge {branch_name}=> merge branches 
+- git branch -d {branch_name} => delete branch 
