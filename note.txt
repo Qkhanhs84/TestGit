@@ -1,4 +1,6 @@
 conflict
+local 
+remote 
 
 - git init 
 - git status 
