@@ -1,0 +1,10 @@
+- git init 
+- git status 
+- git add {file_name}
+- git add . => all files 
+- git reset 
+- git commit -m '{note}'
+- git log => view all commit 
+- git log --oneline 
+- git checkout <id_commit> => come to commit(id) 
+- git checkout {branch_name}
