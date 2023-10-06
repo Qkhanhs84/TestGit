@@ -9,5 +9,6 @@ signed main(void) {
     cout << "conflict from conflict" ; 
     cout << "remote repo" ; 
     cout << "remote clone " ; 
+    cout << "hi" ;
     return 0;
 }
