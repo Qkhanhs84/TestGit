@@ -23,4 +23,6 @@ remote
 
 - git fetch origin 
 - git checkout -b staging origin/staging
+- git clone url 
+- git checkout - b {branch_name} origin/{branch_name}
 
