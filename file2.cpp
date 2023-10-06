@@ -10,5 +10,6 @@ signed main(void) {
     cout << "remote repo" ; 
     cout << "remote clone " ; 
     cout << "hi" ;
+    cout << "staging_branch" ; 
     return 0;
 }
